@@ -28,4 +28,4 @@ $mongo
 3. Transpile: `npm run start`
 4. Serve : `node --harmony routes.js`
 
-![](https://raw.githubusercontent.com/atabegruslan/node-react-koa-mongo-mvc/master/Illustrations/KoaReact01.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/MVC-CRUD_Node-React-Koa-Mongo/master/Illustrations/KoaReact01.PNG)
