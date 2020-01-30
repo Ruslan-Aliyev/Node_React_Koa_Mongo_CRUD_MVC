@@ -23,7 +23,7 @@ $mongo
 
 ## Results
 
-1. `git clone https://github.com/atabegruslan/node-react-koa-mongo-mvc.git`
+1. `git clone https://github.com/Ruslan-Aliyev/node-react-koa-mongo-mvc.git`
 2. `cd node-react-koa-mongo-mvc` and `npm install`
 3. Transpile: `npm run start`
 4. Serve : `node --harmony routes.js`
