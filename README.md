@@ -35,3 +35,4 @@ $mongo
 # Relevant Tutorials
 
 - https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE
